@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin-top: 5px;
+}
+
+#header {
+    display: inline-block;
+    border: 1px solid #e3e3e4;
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    position: relative;
+}
+
+#logo {
+    margin-left: 20%;
+    margin-right: 6%;
+}
+
+#connexion {
+    margin-top: -55px;
+    width: 35%;
+    height: 40px;
+    margin-left: 63%;
+    padding-top: 10px;
+}
+
+#tele, #connect {
+    display: inline-block;
+    margin-left: 2%;
+}
+
+i {
+    margin-left: 2%;
+}
+
+#tele {
+    font-weight: bold;
+}
+
+#connect {
+    border: 1px solid #fe2c55;
+    background-color: #fe2c55;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+
+#left {
+    display: inline-block;
+    height: 870px;
+    width: 18%;
+    margin-left: 21%;
+    margin-top: 2%;
+}
+
+#you {
+    display: inline;
+    margin-left: 5%;
+    color: #fe2c55;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#abo {
+    display: inline;
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#abonne {
+    margin-top: 5%;
+    border-bottom: 1px solid #e3e3e4;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+#click {
+    color: #b6b6b8;
+    text-align: justify;
+    margin-bottom: 10%;
+}
+
+#connexion_user {
+    display: inline-block;
+    text-decoration-line: none;
+    text-align: center;
+    border: 1px solid #fe2c55;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #fe2c55;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#bloc {
+    display: inline-block;
+    height: 16%;
+    border-bottom: 1px solid #e3e3e4;
+    margin-bottom: 5%;
+}
+
+#compte {
+    margin-top: 5%;
+}
+
+#affich {
+    color: #fe2c55;
+}
+
+h2 {
+    color: rgba(22,24,35,0.75);
+    font-size: 15px;
+}
+
+#influ {
+    border-bottom: 1px solid #e3e3e4;
+    padding-bottom: 6%;
+    margin-bottom: 5%;
+}
+
+#decou {
+    margin-bottom: 4%;
+}
+
+.tag {
+    display: inline-block;
+    border: 1px solid #e3e3e4;
+    border-radius: 10px;
+    width: 125px;
+    padding-left: 2%;
+    margin-bottom: 4%;
+}
+
+#memoire {
+    width: 70px;
+}
+
+.music {
+    display: inline-block;
+    border: 1px solid #e3e3e4;
+    border-radius: 10px;
+    padding-left: 2%;
+    margin-bottom: 4%;
+    width: 85%;
+}
+
+#fil {
+    display: inline-block;
+    border-bottom: 1px solid #e3e3e4;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 2%;
+}
