@@ -19,6 +19,12 @@ body {
     position: relative;
 }
 
+#search_bar {
+    position: absolute;
+    margin-left: 8%;
+    margin-top: 15px;
+}
+
 #logo {
     margin-left: 20%;
     margin-right: 6%;
